@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vaceslavkanukov3.github.io/sitemap.xml
